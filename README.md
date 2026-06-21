@@ -21,6 +21,53 @@ AI Connect Pro is a powerful WordPress plugin that brings **complete AI integrat
 
 ---
 
+## Screenshots
+
+### Dashboard
+![Dashboard](.github/assets/dashboard.png)
+
+- Site statistics (Posts, Pages, Products, Comments, Users)
+- API key and connection test
+- SEO overview with page scores
+- WooCommerce store stats
+- Quick access buttons
+
+### SEO Analysis
+![SEO Analysis](.github/assets/seo-analysis.png)
+
+- Meta title and description analysis
+- Content readability scores (Flesch, Gunning Fog, Coleman-Liau)
+- Heading hierarchy check
+- Internal/External link analysis
+- Image alt text verification
+
+### AI Agent Analysis
+![AI Agent Analysis](.github/assets/ai-agent-analysis.png)
+
+- AI-powered page scoring (A/B/C/D grade)
+- Expert content review
+- Page structure analysis
+- Images and links review
+- Actionable recommendations
+
+### Security & DevOps
+![Security](.github/assets/security.png)
+
+- Server health monitoring
+- Firewall with IP blocking
+- Security settings (logging, bot filtering)
+- Security scanning
+
+### SEO & Theme Settings
+![SEO Settings](.github/assets/seo-settings.png)
+
+- Auto meta generation
+- WooCommerce product analysis
+- AI Agent configuration (GPT-4o, GPT-4, GPT-3.5)
+- Multiple SEO tools tabs
+
+---
+
 ## Features
 
 | Feature | Description |
@@ -233,6 +280,53 @@ If this plugin is helpful, please give it a ⭐ on GitHub!
 ## AI Connect Pro چیست؟
 
 افزونه AI Connect Pro یک ابزار قدرتمند برای وردپرس است که **اتصال کامل هوش مصنوعی** را به سایت شما می‌آورد. این افزونه یک REST API جامع، تحلیل سئوی پیشرفته، تولید محتوا با AI، ابزارهای امنیتی و پشتیبانی از ووکامرس را در یک پکیج واحد ارائه می‌دهد.
+
+---
+
+## اسکرین‌شات‌ها
+
+### داشبورد
+![داشبورد](.github/assets/dashboard.png)
+
+- آمار کلی سایت (نوشته، صفحه، محصول، دیدگاه، کاربر)
+- کلید API و تست اتصال
+- نمای کلی سئو با امتیاز صفحات
+- آمار فروشگاه ووکامرس
+- دسترسی سریع
+
+### تحلیل سئو
+![تحلیل سئو](.github/assets/seo-analysis.png)
+
+- بررسی عنوان و توضیحات متا
+- امتیازات خوانایی محتوا (Flesch، Gunning Fog، Coleman-Liau)
+- بررسی ساختار هدینگ
+- تحلیل لینک‌های داخلی و خارجی
+- بررسی alt text تصاویر
+
+### تحلیل AI Agent
+![تحلیل AI](.github/assets/ai-agent-analysis.png)
+
+- امتیازدهی صفحه توسط هوش مصنوعی (A/B/C/D)
+- بررسی تخصصی محتوا
+- تحلیل ساختار صفحه
+- بررسی تصاویر و لینک‌ها
+- پیشنهادات عملیاتی
+
+### امنیت و دواپس
+![امنیت](.github/assets/security.png)
+
+- مانیتورینگ سلامت سرور
+- فایروال با مسدودسازی IP
+- تنظیمات امنیتی (لاگ‌گیری، فیلتر ربات)
+- اسکن امنیتی
+
+### تنظیمات SEO و قالب
+![تنظیمات SEO](.github/assets/seo-settings.png)
+
+- ساخت خودکار متا
+- تحلیل محصولات ووکامرس
+- پیکربندی AI Agent (GPT-4o، GPT-4، GPT-3.5)
+- تب‌های ابزارهای سئو
 
 ---
 
