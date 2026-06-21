@@ -263,7 +263,7 @@ GPL v2 - [View License](https://www.gnu.org/licenses/gpl-2.0.html)
 
 ## Author
 
-**Deioces120** - [deioces120.ir](https://deioces120.ir)
+**Deioces120** 
 
 ---
 
@@ -454,4 +454,4 @@ GPL v2
 
 ## نویسنده
 
-**Deioces120** - [deioces120.ir](https://deioces120.ir)
+**Deioces120** 
