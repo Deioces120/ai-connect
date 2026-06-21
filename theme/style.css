@@ -1,0 +1,20 @@
+/*
+Theme Name: AI Connect Theme
+Theme URI: https://deioces120.ir
+Author: Deioces120
+Author URI: https://deioces120.ir
+Description: قالب اختصاصی AI Connect - طراحی شده برای کنترل کامل توسط هوش مصنوعی
+Version: 1.0.0
+Requires at least: 5.0
+Requires PHP: 7.4
+License: GNU General Public License v2 or later
+License URI: https://www.gnu.org/licenses/gpl-2.0.html
+Text Domain: ai-connect-theme
+Tags: one-column, custom-menu, featured-images, translation-ready, wide-blocks
+*/
+
+* { margin: 0; padding: 0; box-sizing: border-box; }
+body { font-family: Tahoma, Arial, sans-serif; direction: rtl; line-height: 1.7; color: #333; background: #fff; }
+a { color: inherit; text-decoration: none; }
+img { max-width: 100%; height: auto; }
+.container { max-width: 1200px; margin: 0 auto; padding: 0 20px; }

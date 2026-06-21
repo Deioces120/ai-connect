@@ -1,0 +1,31 @@
+# Dependencies
+node_modules/
+vendor/
+
+# OS files
+.DS_Store
+Thumbs.db
+Desktop.ini
+
+# IDE files
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Logs
+*.log
+npm-debug.log*
+
+# Build artifacts
+dist/
+build/
+
+# Temp files
+tmp/
+temp/
+
+# Plugin specific
+*.zip
+*.bak
+.aic_backups/
