@@ -9,7 +9,6 @@
 [![License](https://img.shields.io/badge/License-GPL%20v2-4285f4.svg)](https://www.gnu.org/licenses/gpl-2.0.html)
 [![Version](https://img.shields.io/badge/Version-8.4.0-orange.svg)](https://github.com/Deioces120/ai-connect)
 
-
 </div>
 
 ---
