@@ -181,6 +181,7 @@ curl -s -X POST \
 | GET | `/analytics/summary` | Analytics summary |
 | POST | `/devops/scan` | Security scan |
 
+    
 ---
 
 ## AI Setup
