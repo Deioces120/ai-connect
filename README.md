@@ -260,12 +260,6 @@ GPL v2 - [View License](https://www.gnu.org/licenses/gpl-2.0.html)
 
 ---
 
-## Author
-
-**Deioces120** 
-
----
-
 <div align="center">
 
 If this plugin is helpful, please give it a ⭐ on GitHub!
@@ -444,13 +438,4 @@ curl -s -H "X-API-Key: YOUR_KEY" \
 - حافظه PHP حداقل 128MB
 
 ---
-
-## لایسنس
-
-GPL v2
-
----
-
-## نویسنده
-
-**Deioces120** 
+ 
